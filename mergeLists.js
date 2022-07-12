@@ -1,3 +1,5 @@
+// Function that takes in two arrays of numbers and returns a new sorted array that is the values from the two input arrays combined.
+
 const mergeLists = (arr1, arr2) => {
   // Create result array
   const result = [];
